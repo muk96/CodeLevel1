@@ -1,0 +1,14 @@
+Problem : Implements a simple to-do list.
+ The program should allow users to add tasks, mark tasks as completed, and display all incomplete tasks.
+
+
+Single Responsibility Principle: Each class has a single responsibility.
+The TodoList class is responsible for managing the tasks,
+while the TodoListApp class is responsible for the command-line interface.
+
+Open/Closed Principle: The TodoList class is open for extension (i.e., we can add new methods to manipulate the list),
+ but closed for modification (i.e., we don't need to modify the existing methods to add new functionality).
+
+
+Liskov Substitution Principle: The TodoList class follows the contracts of the methods defined in the TodoListInterface,
+ and can be used interchangeably with other implementations of the interface.

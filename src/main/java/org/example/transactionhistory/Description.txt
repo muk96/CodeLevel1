@@ -1,0 +1,1 @@
+Implements a simple bank transaction history system. The program should keep track of all transactions (deposits, withdrawals, etc.) for each account, and allow users to view their transaction history.

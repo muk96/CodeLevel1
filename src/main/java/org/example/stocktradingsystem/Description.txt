@@ -1,0 +1,4 @@
+Implements a simple stock trading system. The program should allow users to buy and sell stocks, and display their portfolio and account balance.
+
+
+//This one is still incomplete

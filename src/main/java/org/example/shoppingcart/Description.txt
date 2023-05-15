@@ -1,0 +1,1 @@
+Implements a simple shopping cart. The program should allow users to add items to their cart, remove items from their cart, and calculate the total cost of their order.
